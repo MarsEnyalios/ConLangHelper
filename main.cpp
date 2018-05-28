@@ -1,5 +1,5 @@
 /*****************************************************************************
- * Program: Constructed Language Helper v 0.3.1 - GNU 3.0 License
+ * Program: Constructed Language Helper v 0.3.1 - GNU 2.0 License
  * @author M. Burkett
  *
  * Purpose: This is a tool for constructing languages from scratch. The
