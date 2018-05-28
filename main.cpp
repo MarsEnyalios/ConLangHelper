@@ -328,5 +328,5 @@ void getFileName(string & filename)
     cin.clear();
     cin.ignore(100, '\n');
 
-    filename.append("txt");
+    filename.append(".txt");
 }
